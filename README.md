@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database%20Connector-blue)
-![License](https://img.shields.io/badge/License-Educational-yellow)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
 
 A console-based Java application designed to streamline the workflow of civil construction contractors. This system manages client requests, contractor assignments, project templates, and payment tracking to make project coordination efficient and organized.
